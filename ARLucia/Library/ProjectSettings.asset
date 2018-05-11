@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: 1dbc7b176b12cbe4092db32ef7e231e2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -689,7 +689,7 @@ PlayerSettings:
   facebookSdkVersion: 
   apiCompatibilityLevel: 2
   cloudProjectId: a68ade1f-d2d1-425b-b276-abc3512a93b0
-  projectName: 
+  projectName: ARLucia
   organizationId: xsisku
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
