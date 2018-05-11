@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: fe434c3f95cc2044aaa53802203403d5
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -686,10 +686,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: a68ade1f-d2d1-425b-b276-abc3512a93b0
-  projectName: 
+  projectName: ARLucia
   organizationId: xsisku
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
